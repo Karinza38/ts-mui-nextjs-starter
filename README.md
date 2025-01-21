@@ -1,4 +1,4 @@
-# Netlify Next.js + TypeScript + MUI Starter  
+ # Netlify Next.js + TypeScript + MUI Starter  
 
 ![Netlify Next.js + TS + MUI Starter](https://assets.stackbit.com/docs/ts-nextjs-starter-thumb.png)
 
